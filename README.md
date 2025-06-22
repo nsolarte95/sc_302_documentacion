@@ -1,2 +1,1 @@
-# sc_302_documentacion
-descripcion de repositorio
+console.log('Hola Mundo');
